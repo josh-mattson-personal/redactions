@@ -1,3 +1,9 @@
+# Custom Ignores
+AllDataCategories/
+All Data Categories/
+test_strings.txt
+redaction_strings.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
